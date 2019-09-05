@@ -12,4 +12,4 @@ while count_number <= n:
 
     num1 = num2
     num2 = num3
-    num3 = sum
+    num3 = sum  
